@@ -6,4 +6,4 @@ Open up windows powershell and change the directory to this program. Then type i
 
 Open up the website and add a /teams to the url.
 
-Contains fantasy football rosters in json format on /teams
+Contains fantasy football rosters in json format on /teams for GET 
